@@ -19,10 +19,10 @@ translator = google_translator()
 
 #Reddit Access for Bot
 r_access = praw.Reddit(user_agent = "Test Bot",
-                  client_id = "7CW6Ub5SgU1KQg",
-                  client_secret = 	"gNXdNihNF4i-yj54HOm5AKb3bg9I7A",
+                  client_id = "hidden",
+                  client_secret = 	"hidden",
                   username = "MReisdorf_Bot",
-                  password = "img0462jpg")
+                  password = "hidden")
 
 
 
